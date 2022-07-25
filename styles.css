@@ -1,0 +1,30 @@
+button{
+    height: 100vh;
+    width: 70vw;
+    color: white;
+    background-color: #5DADE2;
+    border: none;
+}
+p{
+    height: 50vh;
+    width: 70vw;
+    text-align: center;
+    
+    font-size: 100px;
+    background-color: #229954;
+    color: white;
+}
+#dec{
+font-size: 100px;
+}
+#inc{
+    font-size: 100px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #d19ee7;
+}
